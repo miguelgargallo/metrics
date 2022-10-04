@@ -6,7 +6,7 @@ Generate metrics that can be embedded everywhere, including your GitHub profile 
 
 <table>
   <tr>
-    <th align="center">For user accounts</th>
+    <th align="center">For user account</th>
     <th align="center">For organization accounts</th>
   </tr>
   <tr>
